@@ -1,7 +1,8 @@
-*.bat text eol=crlf
+*.bat text eol=lf
 *.ps1 text eol=crlf
 *.txt text eol=crlf
 SHA256SUMS.txt text eol=lf
+tools/zstd-LICENSE.txt text eol=lf
 *.md text eol=lf
 *.csv -text
 *.yy -text
