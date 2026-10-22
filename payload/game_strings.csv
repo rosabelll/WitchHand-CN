@@ -1,0 +1,334 @@
+﻿Key,String,Notes,GERMAN,POLISH,FRENCH
+ui_title_splash,乔恩·尼尔森 作品,opening splash screen,EIN SPIEL VON JON NIELSEN,GRA AUTORSTWA JONA NIELSENA,UN JEU DE JON NIELSEN
+ui_play,开始游戏,title screen,Spielen,Gra,Jouer
+ui_options,选项,,Optionen,Opcje,Options
+ui_compendium,图鉴,,Kompendium,Kompendium,Collection
+ui_exit,退出,,Beenden,Wyjście,Quitter
+ui_more,Jon 的更多游戏,title screen link to steam developer page,Mehr Spiele von Jon,Więcej gier Jona,Autres jeux de Jon
+ui_version,版本,,Version,Wersja,Version
+ui_language,语言,,Sprache,Język,Langue
+ui_language_setting,简体中文,current langauge setting in options,Deutsch,Polski,Français
+ui_screen,屏幕,,Bildschirm,Tryb wyświetlania,Affichage
+ui_screen_fullscreen,全屏,,Vollbild,Pełnoekranowy,Plein écran
+ui_screen_windowed,窗口化,,Fenster,W oknie,Fenêtré
+ui_screen_borderless,无边框窗口,,Randloses Fenster,Okno bez ramki,Fenêtre sans bordure
+ui_ratio,显示比例,,Anzeigeverhältnis,Proporcje,Format de l'image
+ui_ratio_native,原始,,Nativ,Systemowe,Natif
+ui_music,音乐,,Musik,Muzyka,Musique
+ui_on,开,,Ein,Wł,Oui
+ui_off,关,,Aus,Wył,Non
+ui_sound,音效,,Sound,Dźwięk,Sons
+ui_screenshake,屏幕震动,,Bildschirmrütteln,Wstrząsy ekranu,Vibration de l'écran
+ui_mute_minimized,最小化时静音,,"Audio stummschalten, wenn minimiert",Wyciszaj dźwięk przy minimalizacji,Désactiver le son quand le jeu est réduit
+ui_pause_minimized,最小化时暂停游戏,,"Spiel pausieren, wenn minimiert",Wstrzymaj grę przy minimalizacji,Mettre en pause quand le jeu est réduit
+ui_pause_drag,拖动卡牌时暂停时间,,Zeit pausieren beim Ziehen von Karten,Pauza przy przeciąganiu kart,Arrêter le temps lors du déplacement de cartes
+ui_timer_seconds,显示每日计时秒数,,Sekunden im Timer anzeigen,Wyświetlaj sekundy pozostałe w dniu,Afficher le compteur du jour en secondes
+ui_tutorials,教程,,Tutorials,Samouczki,Didacticiels
+ui_fast_witching,快速巫时,,Schnelle Hexenstunde,Szybka godzina czarownic,Accélérer Heure des sorcières
+ui_controls,操作,,Steuerung,Sterowanie,Commandes
+ui_credits,制作人员,,Credits,Twórcy gry,Crédits
+ui_back,返回,backing out of menus,Zurück,Powrót,Retour
+ui_interact,交互,,Interagieren,Działanie,Interagir
+ui_camera_pan,平移镜头,,Kameraschwenk,Przesuwanie kamery,Déplacer caméra
+ui_zoom_in,放大,,Heranzoomen,Powiększanie,Zoom avant
+ui_zoom_out,缩小,,Herauszoomen,Pomniejszanie,Zoom arrière
+ui_timer_play,计时开始,,Timer spielen,Zwykłe tempo,Temps vitesse normale
+ui_timer_fast,计时加速,,Timer schnell,Szybkie tempo,Accélérer le temps
+ui_timer_pause,计时暂停,,Timer pausieren,Pauza,Arrêter le temps
+ui_timer_toggle,切换计时,,Timer umschalten,Przełączanie pauzy,Démarrer/arrêter le temps
+ui_spellbook,法术书,,Zauberbuch,Księga czarów,Grimoire
+ui_sell,出售,,Verkaufen,Sprzedaż,Vendre
+ui_card_lock,锁定卡牌,,Karte sperren,Blokada karty,Verrouillage cartes
+ui_toggle_hud,切换界面,,HUD umschalten,Przełączanie interfejsu,Activer/désactiver interface
+ui_camera_pan_interact,允许用交互键平移镜头,,Kameraschwenk mit Interagieren zulassen,Pozwalaj na przesuwanie kamery przy działaniu,Déplacer caméra avec touche d'interaction
+ui_reset_controls,恢复默认操作,,Auf Standardsteuerung zurücksetzen,Przywróć domyślne sterowanie,Rétablir commandes par défaut
+ui_rebinding_press,按下,"when rebinding controls in the controls menu, a prompt appears that says ""Press the [KEYBINDING] key"" with the binding's name string inserted in the middle",Drücke die,Naciśnij klawisz,Appuyez sur la touche
+ui_rebinding_key,键,,Taste,,
+ui_credits_game,游戏,,Spiel,Gra,Jeu
+ui_credits_music,音乐与附加程序,,Musik und zusätzliche Programmierung,Muzyka i dodatkowe programowanie,Musique et programmation additionnelles
+ui_credits_tools,工具,,Tools,Narzędzia,Outils
+ui_credits_localization,本地化,,Lokalisierung,Lokalizacja,Localisation
+ui_credits_thanks,特别鸣谢,,Besonderer Dank,Specjalne podziękowania,Remerciements
+ui_save_select,选择存档,,Dateiauswahl,Wybierz zapis,Choisir une sauvegarde
+ui_new_game,新游戏,,Neues Spiel,Nowa gra,Nouvelle partie
+ui_day,天数,"followed by the current in game day ""Day 17""",Tag,Dzień,Jour
+ui_save_slot_delete,清除存档栏位,followed by the selected save slot number,Lösche Speicherdatei,Skasuj zapis,Effacer sauvegarde
+ui_save_slot_delete_1,所有进度都将丢失。,,Alle Fortschritte gehen verloren.,Wszystkie postępy zostaną utracone.,Toute la progression sera perdue.
+ui_save_time_played,游戏时间：,,Spielzeit:,Czas gry:,Temps de jeu :
+ui_peaceful_mode,和平模式,,Friedlicher Modus,Tryb pokojowy,Mode paisible
+ui_character_select,选择角色,,Charakterauswahl,Wybór postaci,Choisir un personnage
+ui_peaceful_mode_tooltip,和平模式中没有敌人。与敌人相关的成就将无法获得。,,Keine Feinde im friedlichen Modus. Feindbezogene Errungenschaften können nicht erreicht werden.,W trybie pokojowym nie ma wrogów. Nie będzie można zdobyć osiągnięć powiązanych z wrogami.,Aucun ennemi dans le mode paisible. Les succès en rapport avec des ennemis seront inaccessibles.
+ui_witch_chaos,混沌女巫,,Chaoshexe,Wiedźma Chaosu,Sorcière du chaos
+ui_witch_chaos_desc,第六环的女巫会用敌人的头骨强化她们本就强大的力量。混沌女巫的使魔无法攻击。,witch character description on the character select screen,"Hexen des Sechsten benutzen die Schädel ihrer Feinde, um ihre ohnehin schon gewaltige Kraft zu verstärken. Vertraute der Chaoshexe können nicht angreifen.","Wiedźmy Szóstej korzystają z czaszek swoich wrogów, aby zwiększyć swoją już i tak wielką moc. Chowańce Wiedźmy Chaosu nie mogą atakować.",Les sorcières du Sixième utilisent les crânes de leurs ennemis pour augmenter leur force déjà considérable. Les familiers des sorcières du chaos ne peuvent pas attaquer.
+ui_witch_celestial,星辰女巫,,Himmelshexe,Wiedźma Nieboskłonu,Sorcière céleste
+ui_witch_celestial_desc,第一环的女巫从星辰中汲取力量，强化村庄并提高产量。,,"Hexen des Ersten ziehen Kraft aus den Sternen, um ihre Dörfer zu stärken und die Produktion zu steigern.","Wiedźmy Pierwszej czerpią siłę z gwiazd, aby wzmacniać swoje wioski i zwiększać ich wydajność.",Les sorcières du Premier puisent leur force des étoiles pour renforcer leurs villages et accroître la production.
+ui_witch_culinary,烹饪女巫,,Küchenhexe,Wiedźma Kulinarna,Sorcière culinaire
+ui_witch_culinary_desc,第四环的女巫擅长烹制营养均衡的餐点，提升使魔与村庄的能力。,,"Hexen des Vierten kochen ausgewogene Mahlzeiten, die die Fähigkeiten ihrer Vertrauten und Dörfer stärken.","Wiedźmy Czwartej gotują zrównoważone potrawy, które wzmacniają zdolności ich chowańców i wiosek.",Les sorcières du Quatrième cuisinent des repas équilibrés qui renforcent les capacités de leurs familiers et de leurs villages.
+ui_witch_phoenix,凤凰女巫,,Phönixhexe,Wiedźma Feniksów,Sorcière du phénix
+ui_witch_phoenix_desc,第三环的女巫身边永远有强大的凤凰使魔相伴。她们的力量源于彼此间的羁绊。凤凰女巫没有其他使魔。,,Hexen des Dritten sind nie ohne ihren mächtigen Phönix-Vertrauten. Ihre Macht liegt in der Stärke ihrer Verbindung.,Wiedźmy Trzeciej nigdzie się nie ruszają bez swoich potężnych chowańców – feniksów. Ich moc bierze się z łączącej ich więzi.,Les sorcières du Troisième ne se séparent jamais de leur puissant familier : le phénix. Leur pouvoir réside dans la force de leur lien.
+ui_difficulty,难度,,Schwierigkeit,Stopień trudności,Difficulté
+ui_start_game,开始游戏,,Spiel starten,Rozpocznij grę,Démarrer
+ui_advance_settings,高级设置,,Erweiterte Einstellungen,Ustawienia zaawansowane,Paramètres avancés
+ui_day_length,一天时长,,Tageslänge,Długość dnia,Durée du jour
+ui_day_short,短,,Kurz,Krótki,Court
+ui_day_standard,标准,,Standard,Zwykły,Normal
+ui_day_long,长,,Lang,Długi,Long
+ui_moondrop_rate,月露产出率,,Mondtropfen-Rate,Ilość księżycowych kropli,Taux d'éclats de lune
+ui_spell_cost_rate,法术购买费用增长率,,Zauber-Kostensteigerungsrate,Tempo wzrostu kosztu zakupu czarów,Taux d'augmentation du coût d'achat des sorts
+ui_enemy_frequency,敌人出现频率,,Feind-Frequenz,Częstość wrogów,Fréquence des ennemis
+ui_city_frequency,妖精城市出现频率,,Feenstadt-Frequenz,Częstość miast wróżek,Fréquence des villes de fées
+ui_area_size,初始区域大小,,Startbereich-Größe,Rozmiar obszaru początkowego,Taille de départ
+ui_area_small,小,,Klein,Mały,Petit
+ui_area_large,大,,Groß,Duży,Grand
+ui_reset_settings,恢复默认设置,,Einstellungen auf Standard zurücksetzen,Przywróć domyślne ustawienia,Rétablir paramètres par défaut
+ui_begin,开始,,Beginnen,Rozpocznij,Commencer
+ui_opening_header_celestial,第九境的星空自古便是一个谜。,bits of story that you get when starting a new game,Die Sterne über dem Neunten Reich waren schon immer ein Geheimnis.,Gwiazdy nad Dziewiątą Krainą zawsze okrywała tajemnica.,Les étoiles au-dessus du Neuvième Royaume ont toujours été un mystère.
+ui_opening_celestial,"第九境致命的阴霾散去后，星辰降下启示：一场灭绝的预兆。第一环的星辰女巫绝不接受这样的命运。
+
+在第九境建立立足点。运用你对星辰的掌控强化村庄。抵御第九境的邪恶，查明其源头，并扭转命运的轨迹。",,"Als sich der tödliche Dunst des Neunten lichtete, kam eine Offenbarung von eben jenen Sternen: ein Vorzeichen der Auslöschung. Ein Schicksal, mit dem die Himmelshexen des Ersten nicht einverstanden sind.
+
+Fasse im Neunten Fuß. Nutze deine Herrschaft über die Sterne, um deine Dörfer zu stärken. Verteidige dich gegen das Böse im Neunten, entdecke seine Quelle und korrigiere den Lauf des Schicksals.","Gdy śmiertelna mgła uniosła się znad Dziewiątej, gwiazdy te przyniosły objawienie: zapowiedź rychłej zagłady. Jest to los, z którym Wiedźmy Nieboskłonu z Pierwszej Krainy nie mogą się pogodzić.
+
+Musisz ustanowić przyczółek w Dziewiątej. Wykorzystaj moc płynącą z gwiazd, by wzmocnić swoje wioski. Broń się przed złem czyhającym w Dziewiątej, odkryj jego źródło i wyznacz nową ścieżkę losu.","Avec la levée de la brume mortelle du Neuvième, ces étoiles firent une révélation : un présage d'extinction. C'est une fatalité que les sorcières célestes du Premier refusent d'accepter.
+
+Installez-vous dans le Neuvième. Utilisez votre maîtrise des étoiles pour renforcer vos villages. Luttez contre le mal du Neuvième, découvrez-en la source et rectifiez la destinée."
+ui_opening_header_chaos,已经太久没有一场像样的战争了。,,Ein guter Krieg ist schon zu lange her.,Od przyzwoitej wojny minęło już zbyt wiele czasu.,Ça fait bien longtemps qu'il n'y a pas eu de bonne guerre.
+ui_opening_chaos,"妖精们变得温顺，第九境的零星侵扰也成了乏味的例行公事。但随着阴霾散去，一片未被战争染指的土地出现在第六环的混沌女巫面前。
+
+在第九境建立立足点。用你对混沌的掌控强化自身。抵御第九境的邪恶，查明其源头，并在荣耀的战斗中将其斩杀。",,"Die Feen sind fügsam geworden und die kleinen Übergriffe aus dem Neunten Reich sind zu einer lästigen Pflicht geworden. Doch als sich der Dunst des Neunten lichtete, offenbarte sich den Chaoshexen des Sechsten ein vom Krieg unberührtes Land.
+
+Fasse im Neunten Fuß. Mache dich stark mit deiner Beherrschung des Chaos. Verteidige dich gegen das Böse des Neunten, finde seine Quelle und töte es in einem glorreichen Kampf.","Wróżki stały się zbyt łagodne, a obrona przed niewielkimi najazdami z Dziewiątej Krainy stały się uprzykrzonym obowiązkiem. Jednak gdy podniosła się mgła znad Dziewiątej, Wiedźmom Chaosu z Szóstej ukazała się kraina nietknięta pożogą wojny.
+
+Musisz ustanowić przyczółek w Dziewiątej. Zyskaj moc dzięki władzy nad chaosem. Broń się przed złem czyhającym w Dziewiątej, odkryj jego źródło i zabij je we wspaniałej bitwie.","Les fées se sont calmées et les petites incursions du Neuvième Royaume sont devenues une corvée. Mais la levée de la brume du Neuvième offre un territoire épargné par la guerre aux sorcières du chaos du Sixième.
+
+Installez-vous dans le Neuvième. Utilisez votre maîtrise du chaos pour vous gagner en puissance. Luttez contre le mal du Neuvième, découvrez-en la source et éliminez-le au cours d'un glorieux combat."
+ui_opening_header_culinary,烹饪真无聊。,,Kochen ist langweilig.,Gotowanie jest nudne.,"Cuisiner, c'est barbant."
+ui_opening_culinary,"第四环的烹饪女巫缺乏创新，烹饪之术已沦为枯燥的家务。直到一批来自第九境的奇异水果送到你手中。阴霾突然散去，揭开了无数尚未发掘的风味可能，等待你去品尝。
+
+在第九境建立立足点。尝试新食材，发现能以魔力强化村庄与使魔的料理。抵御第九境的邪恶，如有必要，也为它的源头奉上一道美味的死亡。",,"Der Mangel an Innovation bei den Küchenhexen des Vierten hat die Kunst des Kochens zu einer banalen Aufgabe gemacht. Das änderte sich, als du eine Lieferung mit seltsamen neuen Früchten aus dem Neunten Reich erhieltst. Als sich der Dunst des Neunten plötzlich lichtete, kam ein Buffet voller ungenutzter Geschmacksmöglichkeiten zum Vorschein, die nur darauf warten, von dir gekostet zu werden.
+
+Fasse im Neunten Fuß. Experimentiere mit neuen Zutaten und entdecke Mahlzeiten, die deine Dörfer und deine Vertrauten auf magische Weise stärken. Verteidige dich gegen das Böse des Neunten und serviere ihm, wenn nötig, eine köstliche Portion Tod.","Brak nowych pomysłów wśród Wiedźm Kulinarnych z Czwartej Krainy zmienił sztukę gotowania w nudny obowiązek. Wszystko się zmieniło wraz z dostawą dziwnych, nowych owoców z Dziewiątej Krainy. Nagłe podniesienie się mgły znad Dziewiątej odsłoniło pełną spiżarnię niewykorzystanych kombinacji smaków, czekających tylko, by je skosztować.
+
+Musisz ustanowić przyczółek w Dziewiątej. Eksperymentuj z nowymi składnikami i odkryj potrawy, które magicznie wzmocnią twoje wioski i twoich chowańców. Broń się przed złem czyhającym w Dziewiątej, a jeśli będzie to konieczne, zaserwuj mu pyszne, ostatnie danie.","Un manque d'innovation chez les sorcières culinaires du Quatrième a transformé l'art de cuisiner en simple corvée. Mais tout a changé lorsque vous avez reçu une cargaison d'étranges fruits inconnus du Neuvième. La levée soudaine de la brume de ce royaume a révélé un buffet de possibilités savoureuses inexploité qui n'attend que vous pour y goûter.
+
+Installez-vous dans le Neuvième. Testez les nouveaux ingrédients et découvrez des plats qui renforceront la magie de vos villages et de vos familiers. Luttez contre le mal du Neuvième, trouvez sa source et servez-lui une bonne portion de destruction."
+ui_opening_header_phoenix,你终于收到了自己的凤凰蛋。,,Du hast endlich dein Phönix-Ei erhalten.,Właśnie otrzymałaś jajo swojego feniksa.,Vous avez enfin reçu votre œuf de phénix.
+ui_opening_phoenix,"向族群、也向你的新凤凰证明自己的时刻到了。笼罩神秘第九境的阴霾已经散去，还有什么比让这片新土地燃起烈火更好的证明方式？
+
+在第九境建立立足点。培养你与凤凰的羁绊。抵御第九境的邪恶，查明其源头，只留灰烬。",,"Die Zeit, in der du dich vor der Gruppe und deinem neuen Phönix beweisen musst, ist gekommen. Nachdem sich der Nebel über dem geheimnisvollen Neunten Reich gelüftet hat, gibt es keine bessere Möglichkeit, deinen Wert zu beweisen, als diese neuen Länder in Flammen zu setzen.
+
+Fasse im Neunten Fuß. Pflege deine Verbindung zu deinem Phönix. Verteidige dich gegen das Böse des Neunten, finde seine Quelle und hinterlasse nichts als Asche.","Pora dowieść stadu, na co cię stać – oto twój nowy feniks. Skoro właśnie podniosły się mgły znad tajemniczej Dziewiątej Krainy, to czy jest lepszy sposób, by udowodnić swą wartość, niż ogarnięcie nowych terenów pożogą?
+
+Musisz ustanowić przyczółek w Dziewiątej. Dbaj o więź ze swoim feniksem. Broń się przed złem czyhającym w Dziewiątej, odkryj jego źródło i obróć je w popiół.","L'heure est venue de faire vos preuves auprès de la couvée et de votre nouveau phénix. Avec la levée de la brume qui recouvrait le Neuvième Royaume mystérieux, c'est le moment de prouver votre valeur en embrasant ces nouveaux territoires.
+
+Installez-vous dans le Neuvième. Entretenez votre relation avec votre phénix. Luttez contre le mal du Neuvième, découvrez-en la source et réduisez tout en cendres."
+ui_continue,继续,,Fortsetzen,Kontynuuj,Continuer
+ui_save_quit,保存并退出,,Speichern und beenden,Zapisz i wyjdź,Sauvegarder et quitter
+ui_save_quit_confirm,返回标题画面？,,Zurück zum Titelbildschirm?,Wyjść do ekranu tytułowego?,Retourner à l'écran-titre ?
+ui_button_sell,出售,,Verkaufen,Sprzedaż,Vendre
+ui_button_explore,探索,,Erkunden,Eksploracja,Explorer
+ui_button_spells,法术,,Zauber,Czary,Sorts
+ui_witching_hour,巫时,,Hexenstunde,Godzina czarownic,Heure des sorcières
+ui_cards_found,已发现卡牌,,Gefundene Karten,Znalezione karty,Cartes trouvées
+ui_close,关闭,closing menus,Schließen,Zamknij,Fermer
+ui_card_not_found,尚未发现这张卡牌。,,Karte noch nicht gefunden.,Jeszcze nie znaleziono karty.,Carte pas encore trouvée.
+ui_cast_once,只能施放一次。,preceded by a spell card name,kann nur einmal gewirkt werden.,można rzucić tylko raz.,n'a qu'une seule utilisation.
+ui_witches,女巫,card types,Hexen,Wiedźmy,Sorcières
+ui_resources,资源,,Ressourcen,Materiały,Ressources
+ui_sources,源,,Quellen,Źródła,Sources
+ui_lands,土地,,Länder,Tereny,Terrains
+ui_villages,村庄,,Dörfer,Wioski,Villages
+ui_buildings,建筑,,Gebäude,Budynki,Structures
+ui_spells,法术,,Zauber,Czary,Sorts
+ui_cities,城市,,Städte,Miasta,Villes
+ui_quests,任务,,Quests,Misje,Quêtes
+ui_enemies,敌人,,Feinde,Wrogowie,Ennemis
+ui_card_packs,卡包,,Kartenpakete,Pakiety kart,Paquets de cartes
+ui_choose_one,选择一项,,Wähle einen,Wybierz jedną kartę,Choisissez une carte
+ui_learn_spell,学习法术,,Zauber lernen,Poznaj czar,Apprenez le sort
+ui_choice_learn,学习,"when selecting a spell card to learn, followed by card's name",Erlerne,Poznaj,Apprendre
+ui_choice_receive,获得,"when selecting a card to receive, followed by card's name",Erhalte,Odbierz,Recevoir
+ui_choice_waypoint,解锁下一阶可研究法术：,followed by a list of spell cards,Schaltet die nächste Stufe der erforschbaren Zauber frei:,Odblokowuje kolejny poziom czarów do badania:,Débloque le niveau suivant de sorts à rechercher :
+ui_spell_tree,法术树,opens the menu that shows all the ulockable spells,Zauberbaum,Drzewo czarów,Arbre à sorts
+ui_time_hour,小时,used for displaying time played (24h 36m),Std.,h,h
+ui_time_minute,分,used for displaying time played (24h 36m),Min.,m,m
+end_witching,巫时降临……,"the following are all the different events that happen during the end of day sequences, referred to in game as ""The Witching Hour""",Die Hexenstunde ist gekommen ...,Nadchodzi godzina czarownic...,C'est l'Heure des sorcières...
+end_enemy,你遭到,followed by an enemy count,Du wirst angegriffen von,,Vous subissez l'attaque de
+end_enemy_singular,名敌人袭击。,"""You are set upon by 1 enemy""",Feind,Liczba atakujących wrogów:,ennemi
+end_enemy_plural,名敌人袭击。,"""You are set upon by 24 enemies""",Feinden,Liczba atakujących wrogów:,ennemis
+end_silent,今夜的黑暗寂静无声。,,Die Dunkelheit ist still in dieser Nacht.,Tej nocy mrok pozostaje cichy.,L'obscurité est silencieuse cette nuit.
+end_rite_fate,命运仪式今夜守护着你。,,Der Schicksalsritus schützt dich in dieser Nacht.,Tej nocy chroni cię Rytuał Losu.,Le rite du destin vous protège cette nuit.
+end_sun_altar,太阳祭坛阻止了你的死亡，随后化为尘土。,,"Ein Sonnenaltar verhindert deinen Tod, bevor er zu Staub zerfällt.","Ołtarz Słońca chroni cię przed śmiercią, a potem rozpada się w pył.",Un autel du soleil empêche votre mort avant de tomber en poussière.
+end_council,命运议会派来了一项任务。,,Eine Quest vom Schicksalsrat trifft ein.,Rada Wieszczek przydzieliła ci nową misję.,Une quête vous parvient du Conseil des destins.
+end_full_header,满月,,Der Mond ist voll,Jest pełnia,C'est la pleine lune
+end_full,议会提供一份恩惠，但需要付出代价。,,"Der Rat bietet einen Segen an, aber zu einem Preis.","Rada oferuje ci dobrodziejstwo, jednak za pewną cenę.","Le conseil offre une bénédiction, à un certain prix."
+end_new_header,新月,,Der Mond ist neu,Jest nów,C'est la nouvelle lune
+end_new,虚空向你袭来。,,Die Leere handelt gegen dich.,Otchłań cię atakuje.,Le néant s'en prend à vous.
+end_ancient_empire,远古帝国派来了一项任务。,,Eine Quest aus dem Alten Reich trifft ein.,Starożytne Imperium przydzieliło ci misję.,Une quête vous parvient de l'Ancien Empire.
+end_mausoleum,陵墓让一位倒下的使魔回到了你身边。,,Das Mausoleum gibt dir einen gefallenen Vertrauten zurück.,Mauzoleum przywraca do życia poległego chowańca.,Le mausolée ramène un familier mort à la vie.
+end_revival,一位倒下的使魔回到了你身边。,,Ein gefallener Vertrauter kehrt zu dir zurück.,Wraca do ciebie poległy chowaniec.,Un familier mort revient à vous en vie.
+end_ancient_waypoint,远古路标碎裂，虚空涌出……,,"Der antike Wegpunkt zerbricht, während die Leere nach außen dringt ...",Starożytny drogowskaz pada strzaskany pod naporem Otchłani...,L'Étape – ancienne se brise tandis que le néant s'infiltre...
+end_herald,你无法阻止即将到来之物。盛宴重新开始。,,"Du kannst nicht aufhalten, was kommt. Das Fest beginnt von Neuem.","Nie możesz zatrzymać tego, co nadchodzi. Znów rozpoczyna się uczta.",Vous ne pouvez rien contre ce qui arrive. Le festin recommence.
+end_herald_death,虚空先驱的死亡，预示着下一场试炼的开始……,,Der Tod des Herolds der Leere läutet den Beginn der nächsten Prüfung ein ...,Śmierć posłańca Otchłani sygnalizuje początek kolejnej próby...,La mort du héraut du néant indique le début du test suivant...
+end_ancient_waypoint_peaceful,远古路标碎裂，大地开始震颤……,,"Der antike Wegpunkt zerbricht, während der Boden bebt ...","Starożytny drogowskaz pada strzaskany, gdy ziemia pod nim drży...",L'Étape – ancienne se brise tandis que la terre tremble...
+end_king,天空燃烧，第九境之主归来……,,"Der Himmel brennt, als der Herr des Neunten zurückkehrt ...",Niebo płonie na powrót Władcy Dziewiątej...,Le ciel brûle et seigneur du Neuvième revient...
+end_lighthouse,被迫提前归来的第九境之主，向你倾泻全部怒火……,,"Der Herr des Neunten ist gezwungen, vor seiner Zeit zurückzukehren, und entfesselt seine ganze Wut auf dich ...","Władca Dziewiątej, przymuszony do przedwczesnego powrotu, atakuje cię z pełną furią...","Forcé de revenir avant l'heure, le seigneur du Neuvième déchaîne sa fureur sur vous..."
+end_lighthouse_peaceful,大地震颤，灯塔闪耀着虚空能量……,,"Der Boden bebt, während der Leuchtturm mit den Energien der Leere glüht ...","Ziemia drży, gdy latarnia zaczyna świecić energią Otchłani...",Le sol tremble et le phare brille des énergies du néant...
+end_faerie_destroy,虚空摧毁了一座妖精城市……,,Die Leere zerstört eine Feenstadt ...,Otchłań niszczy miasto wróżek...,Le néant détruit une ville de fées...
+end_faerie_friendly,妖精们加入了对抗虚空的战斗。,,Die Feen schließen sich dem Kampf gegen die Leere an.,Wróżki dołączają do walki z Otchłanią.,Les fées rejoignent le combat contre le néant.
+end_warlord,妖精军阀前来保卫族人。,,"Der Feen-Kriegsherr trifft ein, um sein Volk zu verteidigen.","Przywódczyni wróżek przybywa, by bronić swego ludu.",Le chef de guerre des fées arrive pour défendre son peuple.
+end_infection,虚空感染在妖精城市间蔓延……,,Eine Leere-Infektion greift auf die Feenstädte über ...,W miastach wróżek pleni się Zaraza Otchłani...,Une infection du néant s'implante dans les villes de fées...
+end_message,一封来自故乡的信件送到了。,,Ein Brief aus deinem Heimatreich trifft ein.,Z twej rodzimej krainy dociera do ciebie list.,Vous recevez une lettre de votre royaume.
+end_judge,命运议会派来了一位审判者。,,Der Schicksalsrat hat einen Richter geschickt.,Rada Wieszczek przysłała Sędzię.,Le Conseil des destins vous envoie un juge.
+end_trader,行商来了。,,Der Händler kommt an.,Przybywa handlarka.,Le vendeur arrive.
+end_phoenix_tamer,凤凰驯服者来了。,,Der Phönix-Bändiger kommt an.,Przybywa Poskramiaczka feniksa.,Dompteur de phénix arrive.
+end_begins,开始了……,preceded by the current day,beginnt ...,rozpoczyna się...,commence...
+prompt_yes,是,confirmation prompts,Ja,Tak,Oui
+prompt_no,否,,Nein,Nie,Non
+prompt_restart,重新开始,,Neustart,Rozpocznij ponownie,Redémarrer
+prompt_continue,继续,,Fortsetzen,Kontynuuj,Continuer
+prompt_confirm,确认,,Bestätigen,Potwierdź,Confirmer
+prompt_cancel,取消,,Abbrechen,Anuluj,Annuler
+victory_victory,胜利！,victory screen,Sieg!,Zwycięstwo!,Victoire !
+victory_time_played,游戏时间：,game stats displayed on the victory screen,Spielzeit:,Czas gry:,Temps de jeu :
+victory_cards_created,制造卡牌：,,Karten erstellt:,Utworzone karty:,Cartes créées :
+victory_stardrop_coins,获得星滴币：,,Verdiente Sternmünzen:,Zdobyte gwiezdne monety:,Pièces étoilées obtenues :
+victory_explorations,探索次数：,,Erkundungen:,Eksploracje:,Explorations :
+victory_familiars,召唤使魔：,,Beschworene Vertraute:,Przywołane chowańce:,Familiers invoqués :
+victory_enemies,击败敌人：,,Besiegte Feinde:,Pokonani wrogowie:,Ennemis vaincus :
+tooltip_may_contain,可能包含：,followed by a big list of possible cards,Kann enthalten:,Może zawierać karty:,Peut contenir :
+tooltip_blueprint,将以下卡牌组合，以,"blueprint cards (""spell cards"" in game) must be crafted together with their listed ingredients",Kombiniere mit den folgenden Karten zu,"Połącz z następującymi kartami, aby",Combiner avec les cartes suivantes pour
+tooltip_recipe,将以下卡牌组合，以,recipe cards are for the culinary witch and list which ingredients go together in the cauldron,Kombiniere die folgenden Karten zu,"Połącz następujące karty, aby",Combiner avec les cartes suivantes pour
+tooltip_create,制作,"recipe verb, followed by a "":"" and then the outputted card's name",erstelle,utworzyć,créer
+tooltip_cast,施放,"recipe verb, followed by a "":"" and then the outputted card's name",wirke,rzucić,utiliser
+tooltip_witch,女巫,,Hexe,Wiedźma,Sorcière
+tooltip_phoenix,凤凰,,Phönix,Feniks,Phénix
+tooltip_exploring,探索中……,,Erkunden ...,Trwa eksploracja...,Exploration...
+tooltip_fighting,战斗中！,,Kämpfen!,Walka!,En plein combat !
+tooltip_mining,采矿中……,,Abbauen ...,Trwa wydobycie...,Extraction...
+tooltip_trading,交易中……,,Handeln ...,Trwa handel...,Commerce...
+tooltip_relations,改善关系中……,,Beziehungen verbessern ...,Poprawa relacji...,Amélioration des relations...
+tooltip_healing,治疗中……,,Heilen ...,Trwa leczenie...,Soins...
+tooltip_growing,培育食材中……,,Zutat wachsen ...,Hodowanie składnika...,Culture d'ingrédient...
+tooltip_granting_haste,加速中……,granting the haste status effect,Hast ...,Przyspieszanie...,Hâte...
+tooltip_bribing,行贿中……,,Bestechen ...,Przekupywanie...,Paiement d'un pot-de-vin...
+tooltip_beginning_end,开始终结……,,Der Anfang vom Ende ...,Początek końca...,Début de la fin...
+tooltip_orders,递送命令中……,,Bestellungen ausliefern ...,Dostarczanie zamówień...,Livraison de commandes…
+tooltip_burial,安葬中……,,Zur Ruhe betten ...,Na wieczny spoczynek...,Enterrement...
+tooltip_increasing_attack,提升攻击中……,,Angriff erhöhen ...,Zwiększanie ataku...,Augmentation de l'attaque...
+tooltip_increasing_armor,提升护甲中……,,Rüstung erhöhen ...,Zwiększanie pancerza...,Augmentation de l'armure...
+tooltip_reviving,复活中……,,Wiederbeleben ...,Wskrzeszanie...,Résurrection...
+tooltip_creating,制造中……,,Erstellen ...,Tworzenie...,Création...
+tooltip_familiar_cap,已达到使魔上限。建造更多使魔之家来提高使魔上限。,,"Maximale Vertrautenobergrenze erreicht. Erstelle mehr Vertrauter-Häuser, um die Vertrautenobergrenze zu erhöhen.","Osiągnięto limit chowańców. Utwórz więcej domów chowańców, aby zwiększyć limit chowańców.",Limite de familiers atteinte. Créez plus d'abris de familiers pour augmenter la limite.
+tooltip_craft_time,完成时间：,,Zeit bis zum Abschluss:,Czas do ukończenia:,Durée :
+tooltip_hostile_city,敌对。会不断产生敌人，直到被使者结交或被战士摧毁。,,"Feindlich. Erzeugt Feinde, bis sich mit einem Abgesandten angefreundet oder sie von einem Krieger zerstört wird.",Wrogie. Będzie tworzyć wrogów aż do poprawy stosunków przez emisariusza lub zniszczenia przez wojownika.,Hostile. Créera des ennemis jusqu'à ce qu'elle soit amadouée par un émissaire ou détruite par un guerrier.
+tooltip_hostile_city_chaos,敌对。会不断产生敌人，直到被使者结交或被你的混沌女巫摧毁。,some tooltips read differently for the different witch characters,"Feindlich. Erzeugt Feinde, bis sich mit einem Abgesandten angefreundet oder sie von deiner Chaoshexe zerstört wird.",Wrogie. Będzie tworzyć wrogów aż do poprawy stosunków przez emisariusza lub zniszczenia przez Wiedźmę Chaosu.,Hostile. Créera des ennemis jusqu'à ce qu'elle soit amadouée par un émissaire ou détruite par votre sorcière du chaos.
+tooltip_hostile_city_phoenix,敌对。会不断产生敌人，直到被友谊之焰结交或被训练营强化的凤凰摧毁。,,"Feindlich. Erzeugt Feinde, bis sich mit einer Flamme der Freundschaft angefreundet oder sie von einem Phönix zerstört wird, der durch ein Trainingslager gestärkt wurde.",Wrogie. Będzie tworzyć wrogów aż do osiągnięcia przyjaznej relacji dzięki Płomieniowi Przyjaźni lub do zniszczenia przez feniksa po obozie szkoleniowym.,Hostile. Créera des ennemis jusqu'à ce qu'elle soit amadouée par une flamme d'amitié ou détruite par un phénix renforcé dans un camp d'entraînement.
+tooltip_enemy_city,敌对。会不断产生敌人，直到被战士摧毁。,,"Feindlich. Erzeugt Feinde, bis sie von einem Krieger zerstört wird.",Wrogie. Będzie tworzyć wrogów aż do zniszczenia przez wojownika.,Hostile. Créera des ennemis jusqu'à ce qu'elle soit détruite par un guerrier.
+tooltip_enemy_city_chaos,敌对。会不断产生敌人，直到被你的混沌女巫摧毁。,,"Feindlich. Erzeugt Feinde, bis sie von deiner Chaoshexe zerstört wird.",Wrogie. Będzie tworzyć wrogów aż do zniszczenia przez Wiedźmę Chaosu.,Hostile. Créera des ennemis jusqu'à ce qu'elle soit détruite par votre sorcière du chaos.
+tooltip_enemy_city_phoenix,敌对。会不断产生敌人，直到被训练营强化的凤凰摧毁。,,"Feindlich. Erzeugt Feinde, bis sie von einem Phönix zerstört wird, der durch ein Trainingslager ermächtigt wurde.",Wrogie. Będzie tworzyć wrogów aż do zniszczenia przez feniksa po obozie szkoleniowym.,Hostile. Créera des ennemis jusqu'à ce ce qu'elle soit détruite par un phénix renforcé dans un camp d'entraînement.
+tooltip_banishment,按住 Shift+,followed by the Sell keybinding,Drücke Shift +,Naciśnij Shift+,Appuyer sur Maj+
+tooltip_banishment_1,点击任意卡牌即可永久删除。可能会产生意外结果。,,"auf einer beliebigen Karte, um sie endgültig zu löschen. Das kann unbeabsichtigte Folgen haben.","na dowolnej karcie, aby usunąć ją na stałe. Może mieć niepożądane skutki.",sur une carte pour la supprimer définitivement. Peut avoir des résultats non désirés.
+tooltip_sword_chaos,与混沌女巫组合，使其攻击 +1。使用后消耗。,,"Kombiniere mit der Chaoshexe, um ihnen +1 Angriff zu gewähren. Wird bei Gebrauch verbraucht.","Połącz z Wiedźmą Chaosu, aby zapewnić jej +1 do ataku. Karta odrzucana po użyciu.",Combiner avec la sorcière du chaos pour lui octroyer +1 point d'attaque. Usage unique.
+tooltip_shield_chaos,与混沌女巫组合，使其护甲 +1。护甲不能超过女巫的护甲上限。使用后消耗。,,"Kombiniere mit der Chaoshexe, um ihr +1 Rüstung zu gewähren. Die Rüstung kann die Hexenrüstungsobergrenze nicht überschreiten. Wird bei Gebrauch verbraucht.","Połącz z Wiedźmą Chaosu, aby zapewnić jej +1 do pancerza. Wartość pancerza nie może przekroczyć limitu pancerza Wiedźmy. Karta odrzucana po użyciu.",Combiner avec la sorcière du chaos pour lui octroyer +1 point d'armure. L'armure ne peut pas dépasser l'armure max de votre sorcière. Usage unique
+tooltip_frost_crystal_chaos,需要正确的法术才能使用。,,Erfordert den richtigen Zauber zum Benutzen.,Użycie wymaga odpowiedniego czaru.,Il faut le bon sort pour l'utiliser.
+tooltip_familiar_name,按住 Shift 点击可为该使魔自定义名称。,,"Shift + Klicken, um diesem Vertrauten einen eigenen Namen zu geben.","Kliknij z Shift, aby nadać chowańcowi własne imię.",Appuyez sur maj+clic pour donner un nom spécial à ce familier.
+tooltip_corpse_of,尸骸：,followed by card's name,Leiche von,Ciało chowańca:,Dépouille de
+tooltip_armor_cap,护甲上限：,,Rüstungsobergrenze:,Limit pancerza:,Armure max :
+tooltip_daily_armor,每日最低护甲：,,Tägliches Rüstungsminimum:,Codzienny minimalny pancerz:,Armure minimum quotidienne :
+tooltip_frozen,冰冻,status effects are in all caps,EINGEFROREN,ZAMROŻENIE,GEL
+tooltip_frozen_desc,无法行动。将在下一天开始时解冻。,,Unfähig zu handeln. Wird zu Beginn des nächsten Tages wieder aufgetaut.,Nie może działać. Rozmrozi się z początkiem kolejnego dnia.,Ne peut rien faire. Dégèlera au début du jour suivant.
+tooltip_frozen_enemies,敌人受到伤害后解冻。,,"Feinde tauen auf, wenn sie Schaden nehmen.",Wrogowie rozmrażają się po otrzymaniu obrażeń.,Subir des dégâts annule le gel des ennemis.
+tooltip_frozen_village,镶嵌于此的建筑无法运作。,,"Gebäude, die hier platziert sind, sind nicht funktionsfähig.",Budynki umieszczone tutaj nie działają.,Les structures placées ici ne fonctionnent pas.
+tooltip_weakened,虚弱,,GESCHWÄCHT,OSŁABIENIE,AFFAIBLISSEMENT
+tooltip_weakened_desc,攻击。受到伤害后移除。,"preceded by weakened value ""-1 attack. Removed on taking damage.""","Angriff. Wird entfernt, wenn Schaden erlitten wird.",do ataku. Efekt znika po otrzymaniu obrażeń.,point d'attaque. Subir des dégâts annule cet état.
+tooltip_marked,标记,,MARKIERT,OZNACZENIE,MARQUE
+tooltip_marked_desc,受到的伤害 ×2。受到伤害后移除。,,"Erhält x2 Schaden. Wird entfernt, wenn du Schaden nimmst.",Otrzymuje obrażenia x2. Efekt znika po otrzymaniu obrażeń.,Dégâts subis x2. Subir des dégâts annule cet état.
+tooltip_haste,急速,,HAST,PRZYSPIESZENIE,HÂTE
+tooltip_haste_desc,制作、施法与战斗速度提高 50%。,,"Die Geschwindigkeit vom Herstellen, Zaubern und Kämpfen wurde um 50 % erhöht.","Prędkość tworzenia, rzucania czarów i walki zwiększa się o 50%.","La vitesse de fabrication, des sorts et du combat augmente de +50 %."
+tooltip_haste_expires,急速剩余时间：,,Hast verfällt in:,Przyspieszenie wygasa za:,Hâte expire dans :
+tooltip_thorns,荆棘,,DORNEN,CIERNIE,RONCES
+tooltip_thorns_desc,攻击力提高当前护甲值。,,Der Angriff wird um den aktuellen Rüstungswert erhöht.,Atak zwiększa się o bieżącą wartość pancerza.,Attaque augmentée de la valeur actuelle de l'armure.
+tooltip_non_threatening,非威胁,,NICHT BEDROHLICH,NIE ATAKUJE,INOFFENSIF
+tooltip_non_threatening_desc,不会在一天结束时伤害你的女巫。,,Wird deiner Hexe am Ende des Tages nicht schaden.,Nie będzie powodować obrażeń wiedźmy na koniec dnia.,N'infligera pas de dégâts à votre sorcière à la fin de la journée.
+tooltip_regenerative,再生,,REGENERATIV,REGENERACJA,RÉPARATEUR
+tooltip_regenerative_desc,在一天结束时恢复至满血。,,Heilt am Ende des Tages vollständig.,Całkowicie leczy się na koniec dnia.,Restaure la santé totale à la fin de la journée.
+tooltip_stack_crafting,牌堆正在制作。,,Stapeln ist ein Handwerk.,Stos bierze udział w wytwarzaniu.,"Cumuler, c'est fabriquer."
+tooltip_village_name,按住 Shift 点击可为该村庄自定义名称。,,"Shift + Klicken, um diesem Dorf einen eigenen Namen zu geben.","Kliknij z Shift, aby nadać wiosce własną nazwę.",Appuyez sur Maj+clic pour donner un nom spécial à ce village.
+tooltip_village_collapse,双击可折叠该村庄的槽位。,,Mit einem Doppelklick kannst du die Plätze dieses Dorfes verbergen.,"Kliknij dwukrotnie, aby zwinąć pola tej wioski.",Effectuez un double-clic pour réduire les emplacements du village.
+tooltip_friendly,友好,,Freundlich,Przyjazne,Alliée
+tooltip_city_friendly,该城市偏好资源的价值翻倍。,,Der Wert der bevorzugten Ressource dieser Stadt wird verdoppelt.,Wartość ulubionego materiału tego miasta wzrasta dwukrotnie.,La valeur de la ressource préférée de cette ville est doublée.
+tooltip_empire_friendly,每 8 天赠送你一份礼物。,,Schickt dir alle 8 Tage ein Geschenk.,Co 8 dni przysyła ci dar.,Vous envoie un cadeau tous les 8 jours.
+tooltip_storage_limit,存储上限：,storage chest max limit,Lagerungsgrenze:,Pojemność:,Limite de stockage :
+tooltip_storage_contains,内含：,followed by the name of the resource card stored in the chest,Enthält:,Zawiera:,Contient :
+tooltip_storage_stardrop,星滴币：,,Sternmünzen:,Gwiezdne monety:,Pièces étoilées :
+tooltip_expires,剩余时间：,,Läuft ab in:,Wygasa za:,Expire dans :
+tooltip_cost,费用：,,Kosten:,Koszt:,Coût :
+tooltip_celestial_links,已连接链接：,,Verbunden:,Dołączone więzi:,Liens connectés :
+tooltip_celestial_link_bonus,此处额外产出卡牌：+,followed by the number of bonus cards,Hier produzierte Bonuskarten: +,Wytwarzane tutaj karty dodatkowe: +,Cartes bonus produites ici : +
+tooltip_ancient_waypoint_inactive,未激活。,,Inaktiv.,Nieaktywne.,Inactive.
+tooltip_wonder_foundation,奇观地基,,Wunder-Fundament,Fundament cudu,Base de merveille
+tooltip_wonder_stages,奇观分阶段建造。,,Wunder werden in Etappen gebaut.,Cuda budowane są etapami.,Les merveilles sont construites par étapes.
+tooltip_wonder_incomplete,未完成的奇观,,Unvollständiges Wunder,Niekompletny cud.,Merveille inachevée
+tooltip_beacon,与信标组合以创建村庄。,,"Kombiniere sie mit einer Bake, um ein Dorf zu gründen.","Połącz ze snopem światła, aby utworzyć wioskę.",Combiner avec une balise pour créer un village.
+tooltip_rite_active,已激活。,preceded by the name of an active effect,ist aktiv.,: efekt jest aktywny.,est actif.
+tooltip_cooldown_remaining,剩余冷却：,,Verbleibende Abklingzeit:,Odnowienie mocy za:,Temps de recharge restant :
+tooltip_chaos_armor_cap,女巫护甲上限：,,Hexenrüstungsobergrenze:,Limit pancerza Wiedźmy:,Armure max de sorcière :
+tooltip_chaos_daily_armor,女巫每日最低护甲：,,Tägliche Hexenrüstungsminimum:,Codzienny minimalny pancerz Wiedźmy:,Armure minimum quotidienne de sorcière :
+tooltip_chaos_skull_chance,当前额外头骨几率：,,Aktuelle Bonus-Schädel-Chance:,Bieżąca szansa na dodatkową czaszkę:,Chance de crâne bonus :
+tooltip_card_stack,卡牌堆,,Kartenstapel,Stos kart,Pile de cartes
+tooltip_game_over,你的女巫集会走向了终结……,,Dein Hexenzirkel hat sein Ende gefunden ...,Nastąpił kres twojego kowenu...,Votre ordre a été anéanti...
+tooltip_game_over_day,你坚持到了第,followed by the current day,Du erreichst Tag,Nadchodzi dzień,Vous avez atteint le jour 
+tooltip_phoenix_bottle_flavor,瓶中村初始拥有 4 个建筑槽位。镶嵌其中的建筑不会产出卡牌。,certain cards have different descriptions when playing the Phoenix Witch character,"Ein Dorf in einer Flasche beginnt mit 4 Gebäudeplätzen. Gebäude, die hier platziert sind, produzieren keine Karten.",W wiosce w butelce początkowo są 4 pola budynków. Umieszczone tu budynki nie wytwarzają kart.,Un village en bouteille commence avec 4 emplacements de structure. Celles-ci ne produisent pas de cartes.
+tooltip_phoenix_bottle_desc,镶嵌于此的建筑无法产出卡牌。,,"Gebäude, die hier platziert sind, können keine Karten produzieren.",Budynki umieszczone tutaj nie mogą wytwarzać kart.,Les structures placées ici ne produisent pas de cartes.
+tooltip_phoenix_city_0,放置于此的贸易之焰会产出岩石浮精。此处可出售银鼠尾草卡牌。,,"Wenn du die Flamme des Handels hier platzierst, erhältst du Gesteinsplitter. Silbersalbeikarten können hier verkauft werden.",Umieszczony tutaj Płomień Handlu wytwarza skalne błyskotki. Można tutaj sprzedawać karty szałwi.,La flamme de négoce placée ici produit des glems de roche. Vous pouvez y vendre les cartes Sauge argentée.
+tooltip_phoenix_city_1,放置于此的贸易之焰会产出岩石浮精。此处可出售骨头卡牌。,,"Wenn du die Flamme des Handels hier platzierst, erhältst du Gesteinsplitter. Knochenkarten können hier verkauft werden.",Umieszczony tutaj Płomień Handlu wytwarza skalne błyskotki. Można tutaj sprzedawać karty kości.,La flamme de négoce placée ici produit des glems de roche. Vous pouvez y vendre les cartes Os.
+tooltip_phoenix_city_2,放置于此的贸易之焰会产出花木浮精。此处可出售岩石浮精卡牌。,,"Wenn du die Flamme des Handels hier platzierst, erhältst du Florasplitter. Gesteinsplitterkarten können hier verkauft werden.",Umieszczony tutaj Płomień Handlu wytwarza kwietne błyskotki. Można tutaj sprzedawać karty skalnych błyskotek.,La flamme de négoce placée ici produit des glems de flore. Vous pouvez y vendre les cartes Glem de roche.
+tooltip_phoenix_city_3,放置于此的贸易之焰会产出闪电浮精。此处可出售花木浮精卡牌。,,"Wenn du die Flamme des Handels hier platzierst, erhältst du Blitzsplitter. Florasplitterkarten können hier verkauft werden.",Umieszczony tutaj Płomień Handlu wytwarza piorunowe błyskotki. Można tutaj sprzedawać karty kwietnych błyskotek.,La flamme de négoce placée ici produit des glems de foudre. Vous pouvez y vendre les cartes Glem de flore.
+tooltip_phoenix_city_4,放置于此的贸易之焰会产出花木浮精。此处可出售闪电浮精卡牌。,,"Wenn du die Flamme des Handels hier platzierst, erhältst du Florasplitter. Blitzsplitterkarten können hier verkauft werden.",Umieszczony tutaj Płomień Handlu wytwarza kwietne błyskotki. Można tutaj sprzedawać karty piorunowych błyskotek.,La flamme de négoce placée ici produit des glems de flore. Vous pouvez y vendre les cartes Glem de foudre.
+tooltip_phoenix_city_5,放置于此的贸易之焰会产出闪电浮精。此处可出售卡普里角卡牌。,,"Wenn du die Flamme des Handels hier platzierst, erhältst du Blitzsplitter. Caprihornkarten können hier verkauft werden.",Umieszczony tutaj Płomień Handlu wytwarza piorunowe błyskotki. Można tutaj sprzedawać karty rogów kozosi.,La flamme de négoce placée ici produit des glems de foudre. Vous pouvez y vendre les cartes Corne de capri.
+tooltip_phoenix_city_6,妖精首都。放置于此的贸易之焰会产出骨头卡牌。此处可出售多重浮精卡牌。,,"Feenhauptstadt. Wenn du die Flamme des Handels hier platzierst, erhältst du Knochenkarten. Multisplitterkarten können hier verkauft werden.",Stolica wróżek. Umieszczony tutaj Płomień Handlu wytwarza karty kości. Można tutaj sprzedawać karty wielobarwnych błyskotek.,Capitale des fées. La flamme de négoce placée ici produit des cartes Os. Vous pouvez y vendre les cartes Multiglem.
+tooltip_phoenix_ancient_empire,放置于此的友谊之焰会随着时间慢慢改善关系。,,Die hier platzierten Flamme der Freundschaft werden die Beziehungen mit der Zeit langsam verbessern.,Umieszczeni tutaj płomień przyjaźni powoli poprawiają relacje.,Les Flamme d'amitié placés ici améliorent les relations au fil du temps.
+tooltip_phoenix_happiness,凤凰快乐度：,,Phönix-Glück:,Szczęście feniksa:,Bonheur du phénix :
+tooltip_phoenix_adjustments,调整,,Anpassungen,Zmiany,Ajustements
+tooltip_phoenix_monuments,纪念碑：,,Denkmäler:,Pomniki:,Monuments :
+tooltip_phoenix_threat,第九境威胁：,,Bedrohung des Neunten:,Groźba Dziewiątej:,Menace du Neuvième :
+tooltip_phoenix_enemies,敌人：,,Feinde:,Wrogowie:,Ennemis :
+tooltip_phoenix_positive,快乐度高于 50 时，每点快乐度使凤凰产出双倍资源的几率 +1%。,,"Jeder Glückspunkt über 50 erhöht die Chance für den Phönix, doppelte Ressourcen zu erzeugen, um +1 %.",Każdy punkt szczęścia powyżej 50 dodaje 1% szans na tworzenie przez feniksa podwójnych materiałów.,Chaque point de bonheur au-delà de 50 ajoute +1 % de probabilité que le phénix crée le double des ressources.
+tooltip_phoenix_negative,快乐度低于 50 时，每点快乐度使凤凰制作速度 -2%。,,Jeder Glückspunkt unter 50 führt zu -2 % Phönix - Herstellungsgeschwindigkeit.,Każdy punkt szczęścia poniżej 50 obniża prędkość wytwarzania materiałów przez feniksa o 2%.,Chaque point de bonheur en dessous de 50 pénalise la vitesse de fabrication du phénix de -2 %.
+tutorial_explore,把女巫拖到探索卡上，寻找更多卡牌。,,"Ziehe deine Hexe auf die Erkundungskarte, um weitere Karten zu finden.","Przeciągnij wiedźmę na kartę Eksploracja, aby znaleźć więcej kart.",Faites glisser la sorcière sur la carte Explorer pour trouver d'autres cartes.
+tutorial_purchase,出售卡牌以赚取星滴币。用星滴币购买新的探索卡。,,"Verkaufe Karten, um Sternmünzen zu verdienen. Kaufe neue Erkundungskarten mit Sternmünzen.","Sprzedawaj karty, aby uzyskać gwiezdne monety. Kupuj nowe karty eksploracji za gwiezdne monety.",Vendez des cartes pour obtenir des pièces étoilées et acheter de nouvelles cartes Explorer.
+tutorial_spells,法术可以创造建筑，镶嵌到村庄中。点击法术书按钮或按下,followed by spellbook keybinding,"Zauber können Gebäude erzeugen, die in Dörfern platziert werden. Öffne dein Zauberbuch, indem du auf die Schaltfläche „Zauberbuch“ klickst oder durch Drücken von","Czary mogą tworzyć budynki do umieszczenia w wioskach. Otwórz księgę czarów, klikając przycisk księgi czarów lub naciskając",Les sorts peuvent créer des structures à placer dans le village. Ouvrez le grimoire en cliquant sur le bouton du grimoire ou en appuyant sur
+tutorial_enemies,任何存活的敌人都会在一天结束时伤害你的女巫。你可以用时间追踪按钮或,followed by timer toggle keybinding,Alle überlebenden Feinde werden deiner Hexe am Ende des Tages Schaden zufügen. Du kannst pausieren mit der Taste für die Zeitanzeige oder mit,Każdy pozostały wróg będzie zadawać wiedźmie obrażenia na koniec dnia. Możesz zatrzymać grę przyciskiem zegara lub klawiszem,Les ennemis restants infligeront des dégâts à votre sorcière à la fin de la journée. Vous pouvez arrêter le temps avec le bouton du compteur ou
+tutorial_spellbook,点击法术书中的法术，将其变为卡牌。出售多余的法术卡牌，用,followed spellbook keybinding,"Klicke auf einen Zauber im Zauberbuch, um ihn in eine Karte zu verwandeln. Verkaufe überschüssige Zauberkarten mit","Kliknij czar w księdze czarów, aby zmienić go w kartę. Sprzedawaj niepotrzebne karty czarów klawiszem",Cliquez sur un sort du grimoire pour créer une carte. Vendez les cartes de sort inutiles avec
+tutorial_spellbook_1,将药水卡拖到屏幕底部的法术按钮上，即可学习新法术。,preceded spellbook keybinding,"Lerne neue Zaubersprüche, indem du Zaubertrankkarten auf die Schaltfläche „Zauber“ am unteren Rand deines Bildschirms ziehst.","Ucz się nowych czarów, przeciągając karty mikstur na przycisk Czary u dołu ekranu.",Apprenez de nouveaux sorts en faisant glisser des cartes Potions sur le bouton Sorts en bas de l'écran.
+tutorial_spell_purchase,"学会的法术越多，购买新法术的费用就越高。
+
+建造更多炼金术士来加快法术研究。",,"Der Kauf neuer Zauber wird teurer, je mehr du lernst.
+
+Baue zusätzliche Alchemisten auf, um die Erforschung von Zaubersprüchen zu beschleunigen.","Nauka kolejnych czarów stopniowo kosztuje coraz więcej.
+
+Kolejne pracownie alchemiczne przyspieszą naukę nowych czarów.","Plus vous apprenez de sorts, plus leur coût augmente.
+
+Construisez d'autres alchimistes pour accélérer la recherche de sorts."
+tutorial_quests,每晚巫时，命运议会都会赐予你一项新任务。完成任务可获得在第九境扩张势力的手段。,,"Jede Nacht zur Hexenstunde gibt dir Schicksalsrat eine neue Quest. Wenn du sie erfüllst, kannst du deinen Einfluss in diesen Ländern ausweiten.",Każdej nocy podczas godziny czarownic Rada Wieszczek przydziela ci nową misję. Wykonywanie ich zapewni ci środki na rozszerzenie swoich wpływów w tej krainie.,"Toutes les nuits, à l'Heure des sorcières, le Conseil des destins vous confie une nouvelle quête. Les terminer vous donne les moyens d'étendre votre influence sur ces terres."
+tutorial_familiar_cap,已达到使魔上限。建造更多使魔之家来提高使魔上限。,,"Maximale Vertrautenobergrenze erreicht. Erstelle mehr Vertrauter-Häuser, um die Vertrautenobergrenze zu erhöhen.","Osiągnięto limit chowańców. Utwórz więcej domów chowańców, aby zwiększyć limit chowańców.",Limite de familiers atteinte. Créez plus d'abris de familiers pour augmenter la limite.
+tutorial_moondrop,月露主要用于召唤信标。用信标创建新的村庄。,,"Mondtropfen werden hauptsächlich dazu verwendet, Baken zu beschwören. Benutze Baken, um neue Dörfer zu gründen.","Księżycowe krople służą głównie do przywoływania snopu światła. Użyj snopu światła, aby utworzyć nową wioskę.",Les éclats de lune servent principalement à invoquer des balises qui permettent de créer des villages.
+tutorial_first_city,如果有商人使魔，就可以与友好的妖精城市交易。它们也会以更高价格向你购买特定资源。,,"Mit befreundeten Feenstädten kannst du Handel treiben, wenn du einen Händler-Vertrauten hast. Sie können dir auch bestimmte Ressourcen zu höheren Preisen abkaufen.","Z przyjaznymi miastami wróżek można handlować, jeśli masz chowańca-kupca. Mogą one również kupować niektóre materiały po wyższych cenach.",Vous pouvez faire du commerce avec des villes de fées alliées si vous avez un familier marchand. Elles peuvent aussi acheter certaines ressources à un prix supérieur.
+tutorial_first_city_phoenix,如果使用贸易之焰，就可以与友好的妖精城市交易。它们也会以更高价格向你购买特定资源。,,"Mit befreundeten Feenstädten kann gehandelt werden, wenn du eine Flamme des Handels benutzt. Sie können auch bestimmte Ressourcen zu höheren Preisen von dir kaufen.",Z przyjaznymi miastami wróżek można handlować przy użyciu Płomienia Handlu. Mogą one również kupować niektóre materiały po wyższych cenach.,Vous pouvez faire du commerce avec des villes de fées alliées si vous avez une flamme de négoce. Elles peuvent aussi acheter certaines ressources à un prix supérieur.
+tutorial_second_city,敌对的妖精城市每天都会召唤敌方战士。战士使魔可以直接攻击妖精城市。,,Feindliche Feenstädte rufen jeden Tag feindliche Kämpfer herbei. Krieger-Vertraute können Feenstädte direkt angreifen.,Wrogie miasta wróżek codziennie przywołują wrogich wojowników. Chowańcy-wojownicy mogą bezpośrednio atakować miasta wróżek.,Les villes de fées hostiles invoqueront des ennemis tous les jours. Les familiers guerriers peuvent attaquer ces villes directement.
+tutorial_second_city_chaos,敌对的妖精城市每天都会召唤敌方战士。你的混沌女巫可以直接攻击妖精城市。,,"Feindliche Feenstädte rufen jeden Tag feindliche Kämpfer herbei. Deine Chaoshexe ist in der Lage, Feenstädte direkt anzugreifen.",Wrogie miasta wróżek codziennie przywołują wrogich wojowników. Twoja Wiedźma Chaosu może bezpośrednio atakować miasta wróżek.,Les villes de fées hostiles invoqueront des ennemis tous les jours. Votre sorcière du chaos peut attaquer ces villes directement.
+tutorial_second_city_phoenix,敌对的妖精城市每天都会召唤敌方战士。被训练营强化的凤凰可以直接攻击妖精城市。,,"Feindliche Feenstädte rufen jeden Tag feindliche Kämpfer herbei. Ein Phönix, der durch ein Trainingslager gestärkt wird, kann Feenstädte direkt angreifen.",Wrogie miasta wróżek codziennie przywołują wrogich wojowników. Feniks po obozie szkoleniowym może bezpośrednio atakować miasta wróżek.,Les villes de fées hostiles invoqueront des ennemis tous les jours. Un phénix renforcé dans un camp d'entraînement peut attaquer ces villes directement.
+tutorial_card_lock,使用,followed by card lock keybinding,Verwende,,Utilisez
+tutorial_card lock_1,锁定卡牌，防止它被其他卡牌推开。,preceded by card lock keybinding,"um eine Karte zu sperren und zu verhindern, dass sie von anderen Karten verschoben wird.","zablokuje kartę w miejscu, zapobiegając przesuwaniu jej przez inne karty.",pour fixer une carte à un emplacement et éviter que les autres cartes la poussent.
+tutorial_autobuy,按住 Shift 点击探索和法术按钮，可以自动完成交易，无需拖拽所需卡牌。,,"Shift + Klicke auf die Schaltflächen „Erkunden“ und „Zauber“, um die Transaktion automatisch abzuschließen, ohne dass du die benötigten Karten herüberziehen musst.","Klikaj z Shift karty Eksploracja i Czary, aby automatycznie wykonać transakcję, bez konieczności przeciągania niezbędnych kart.",Appuyez sur Maj+clic sur les boutons Explorer et Sorts pour terminer automatiquement la transaction sans devoir faire glisser les cartes.
+tutorial_witch_portrait,点击右下角的女巫头像，将镜头对准她的卡牌。,,"Klicke unten rechts auf das Porträt deiner Hexe, um die Kamera auf ihre Karte zu fokussieren.","Kliknij portret wiedźmy w prawym dolnym rogu, aby przesunąć kamerę na jej kartę.",Cliquez sur le portrait de la sorcière en bas à droite pour focaliser la caméra sur sa carte.
+tutorial_collapse,双击村庄卡牌，折叠其槽位。,,"Doppelklicke auf eine Dorfkarte, um ihre Plätze zu verbergen.","Kliknij dwukrotnie kartę wioski, aby zwinąć jej pola.",Effectuez un double-clic sur une carte de village pour réduire ses emplacements.
+tutorial_toggle,点击开关可以暂停或恢复建筑生产。,,Die Gebäudeproduktion kann durch Anklicken des Kippschalters angehalten und wieder aufgehoben werden.,"Wytwarzanie w budynku można wstrzymać i wznowić, klikając przełącznik.",Interrompez et reprenez la production d'une structure en cliquant sur le bouton à bascule.
+tutorial_magnets,磁石可以简化各种操作。,,"Magnete können dazu verwendet werden, eine Vielzahl von Aufgaben zu optimieren.",Magnesy służą do upraszczania wielu zadań.,Les aimants peuvent servir à automatiser certaines tâches.
+tutorial_chaos_familiar,只有你的混沌女巫能攻击敌人。使魔可以完成其他任务。,,"Nur deine Chaoshexe kann Feinde angreifen. Vertraute können verwendet werden, um andere Aufgaben zu erfüllen.",Tylko twoja Wiedźma Chaosu może atakować wrogów. Chowańce mogą wykonywać inne zadania.,Seule votre sorcière du chaos peut attaquer des ennemis. Les familiers réaliseront d'autres tâches.
+tutorial_new_moon,今晚是新月。小心敌人袭击……,,Heute Nacht wird es einen Neumond geben. Erwarte einen feindlichen Angriff ...,Dzisiaj rozpoczyna się nów. Możesz spodziewać się ataku wrogów...,"Ce soir, c'est une nouvelle lune. Préparez-vous à une attaque..."
+tutorial_enemy_cycle,点击界面上的敌人计数器，可将镜头对准现有敌人。,,"Wenn du auf den Feindzähler im HUD klickst, wird die Kamera auf die vorhandenen Feinde fokussiert.",Kliknięcie na liczniku wrogów na interfejsie kieruje kamerę na istniejących wrogów.,Cliquez sur le compteur d'ennemis dans l'interface pour focaliser la caméra sur les ennemis existants.
+tutorial_waypoint,将路标镶嵌到村庄中，即可购买更高等级的探索卡。,,"Platziere den Wegpunkt in ein Dorf, um den Kauf von höherstufigen Erkundungskarten zu ermöglichen.","Umieść drogowskaz w wiosce, aby umożliwić zakup kart eksploracji wyższego poziomu.",Placez l'étape dans un village pour acheter des cartes Explorer de niveau supérieur.
+tutorial_phoenix_casting,凤凰未经特殊训练无法施放法术。,,Der Phönix kann ohne spezielles Training keine Zauber wirken.,Feniks nie może rzucać czarów bez specjalnego przeszkolenia.,Le phénix ne peut pas jeter de sorts sans un entraînement spécial.
+tutorial_corpses,使魔死亡后会变为尸骸。命运议会赐予的陵墓奇观，或高阶复活法术，都能让使魔恢复昔日荣光。,,"Vertrautere werden beim Tod zu Leichen. Ein Mausoleumswunder, das vom Schicksalsrat gewährt wird, oder ein hochrangiger Wiederbelebungszauber können Vertraute wieder zu ihrer früheren Pracht verhelfen.","Chowańce po śmierci zmieniają się w ciała. Jeden z cudów oferowanych przez Radę Wieszczek, mauzoleum, albo czar wyższego poziomu, wskrzeszenie, mogą wskrzesić chowańce do dawnej chwały.","À leur mort, les familiers deviennent des dépouilles. Une merveille Mausolée octroyée par le Conseil des destins ou un sort Résurrection de niveau élevé permettent de les ramener à la vie."
