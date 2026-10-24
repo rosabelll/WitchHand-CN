@@ -6,6 +6,18 @@
 - 支持游戏版本：**1.10c**（主菜单右下角显示）
 - 平台：Windows / Steam
 
+## 截图
+
+截图来自 1.1 汉化版（游戏版本 1.10c）。
+
+| 主菜单 | 卡牌与悬浮说明 |
+| :---: | :---: |
+| ![主菜单](screenshots/01-main-menu.jpg) | ![卡牌与悬浮说明](screenshots/02-card-tooltip.jpg) |
+
+| 图鉴 | 选项 |
+| :---: | :---: |
+| ![图鉴](screenshots/03-compendium.jpg) | ![选项](screenshots/04-options.jpg) |
+
 ## 下载
 
 前往 [Releases](https://github.com/rosabelll/WitchHand-CN/releases/latest) 下载最新补丁压缩包。

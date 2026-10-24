@@ -8,3 +8,4 @@ tools/zstd-LICENSE.txt text eol=lf
 *.yy -text
 *.zst -text
 *.exe -text
+*.jpg -text
